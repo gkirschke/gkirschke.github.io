@@ -17,29 +17,29 @@ Education
 Publications
 ======
 ### Refereed Journal Articles
-Kirschke G., E. Smith, & C. Drummond. 2019. Little Evidence for Male Mate Choice for Female Size in the Bean Beetle (Callosobruchus maculatus). The Onyx Review 5(1): 8-11. _The Onyx Review is Agnes Scott College’s peer-reviewed interdisciplinary research journal._ [Access here.](https://onyxreview.agnesscott.org/wp-content/uploads/2019/12/Little-evidence.pdf)
+*Kirschke G.*, E. Smith, & C. Drummond. 2019. Little Evidence for Male Mate Choice for Female Size in the Bean Beetle (Callosobruchus maculatus). The Onyx Review 5(1): 8-11. _The Onyx Review is Agnes Scott College’s peer-reviewed interdisciplinary research journal._ [Access here.](https://onyxreview.agnesscott.org/wp-content/uploads/2019/12/Little-evidence.pdf)
 ### Manuscripts in Preparation
-Murphy A.W., N.N. Dorian, E. Minor, P.J. CaraDonna, S.R. Griffin, H. Holm, A.M. Iler, G. Kirschke, S. MacIvor, K. Urban-Mead, E. Youngsteadt, & E. Crone. 2026. Defining the pollinator garden: is conceptual flexibility a feature or a bug? Front. Ecol. Evol. In press.
+Murphy A.W., N.N. Dorian, E. Minor, P.J. CaraDonna, S.R. Griffin, H. Holm, A.M. Iler, *G. Kirschke*, S. MacIvor, K. Urban-Mead, E. Youngsteadt, & E. Crone. 2026. Defining the pollinator garden: is conceptual flexibility a feature or a bug? Front. Ecol. Evol. In press.
 
-Godtfredsen E.B., P. CaraDonna, A.J. Foxx, J.A. Bain, B.J. Connolly, K.M. Dawdy, A.M. Doucet, J.L. Fitzgerald, G.E. Kirschke, J.E. Ogilvie, C.C. Rigby, J.P. Scholl, D.J. Sandacz, S. Rosa, A.C. Zink, & A.M. Iler. Meta-analyses reveal no clear demographic consequences of phenological change across taxa. In prep. [Preprint.](https://doi.org/10.1101/2025.10.29.685396)
+Godtfredsen E.B., P. CaraDonna, A.J. Foxx, J.A. Bain, B.J. Connolly, K.M. Dawdy, A.M. Doucet, J.L. Fitzgerald, *G.E. Kirschke*, J.E. Ogilvie, C.C. Rigby, J.P. Scholl, D.J. Sandacz, S. Rosa, A.C. Zink, & A.M. Iler. Meta-analyses reveal no clear demographic consequences of phenological change across taxa. In prep. [Preprint.](https://doi.org/10.1101/2025.10.29.685396)
 
-Kirschke G.E., J.A. Bain, J.E. Ogilvie, & P.J. CaraDonna. A Practical Roadmap For Sampling Floral Nectar From Communities of Many Plant Species. Anticipated submission Apr 2026. [Preprint.](https://doi.org/10.64898/2025.12.19.695174)
+*Kirschke G.E.*, J.A. Bain, J.E. Ogilvie, & P.J. CaraDonna. A Practical Roadmap For Sampling Floral Nectar From Communities of Many Plant Species. Anticipated submission Apr 2026. [Preprint.](https://doi.org/10.64898/2025.12.19.695174)
 
 ### White Papers
-Kirschke G.E., J.L. Huerta & C.R. Morningstar. 2025. Citizen science data in widely used invasive species data sources. SE RISCC Management Network Communication. [Access here.](https://southeastriscc.org/2025/06/26/citizen-science-data-in-widely-used-invasive-species-data-sources/)
+*Kirschke G.E.*, J.L. Huerta & C.R. Morningstar. 2025. Citizen science data in widely used invasive species data sources. SE RISCC Management Network Communication. [Access here.](https://southeastriscc.org/2025/06/26/citizen-science-data-in-widely-used-invasive-species-data-sources/)
   
 Selected Presentations
 ======
-* Kirschke, G. Running a Field Campaign: Challenges and Rewards (Talk). Geospatial Forum: 6th Doctoral Student Edition, Center for Geospatial Analytics, North Carolina State University. Raleigh, North Carolina. 
-* Kirschke, G. Nectar in Changing Climate (Talk). RMBL Seminar Sampler, RMBL Seminar Series, 2025. Gothic, Colorado.
-* Kirschke, G. Spatial Data for the Bees (Talk). GIS Week 2024 Student Roundtable, Center for Geospatial Analytics, North Carolina State University. Raleigh, North Carolina. 
-* Kirschke G. Remote Sensing of Floral Resources in the East River Valley. (Talk). Rocky Mountain Biological Laboratory Graduate Seminar Series 2025. Gothic, Colorado.
-* Kirschke, G. Scaling Floral Resource Data Using Remote Sensing (Talk). The EcoSpatial Summit: Spatial Data Analysis and Visualization for Bees and Beyond. State College, Pennsylvania. 
-* Kirschke G., J. Bain, J. Ogilvie, & P. CaraDonna*. Quantifying the nectar resource landscape available to pollinators (Talk). Ecological Society of America Annual Meeting 2022. Montreal, Québec, Canada. _*Presenting author; I was unable to attend_
-* Kirschke G., J. Bain, J. Ogilvie, & P. CaraDonna. Quantifying nectar trait responses to natural variation in water availability in subalpine plant communities (Poster). Ecological Society of America Annual Meeting 2020. Virtual.
-* Kirschke, G. Food for Bees: Nectar Availability in Wet and Dry Subalpine Habitats (Talk). Undergraduate Research Seminar Series, Georgia State University, Spring 2021. Virtual.
-* Smith E.*, G. Kirschke*, & C. Drummond. Does Female Size Affect Male Mate Choice in Bean Beetles (Callosobruchus maculatus)? (Talk). 29th Spring Annual Research Conference, Agnes Scott College. Decatur, Georgia. *Co-presenters
-* Kirschke G. & J.C. de Roode. Relative Rates of Parasitism of Butterflies on Non-native vs. Native Host Plants. (Talk). National Conference on Undergraduate Research 2019. Kennesaw, Georgia.
+* *Kirschke, G.* Running a Field Campaign: Challenges and Rewards (Talk). Geospatial Forum: 6th Doctoral Student Edition, Center for Geospatial Analytics, North Carolina State University. Raleigh, North Carolina. 
+* *Kirschke, G.* Nectar in Changing Climate (Talk). RMBL Seminar Sampler, RMBL Seminar Series, 2025. Gothic, Colorado.
+* *Kirschke, G.* Spatial Data for the Bees (Talk). GIS Week 2024 Student Roundtable, Center for Geospatial Analytics, North Carolina State University. Raleigh, North Carolina. 
+* *Kirschke, G.* Remote Sensing of Floral Resources in the East River Valley. (Talk). Rocky Mountain Biological Laboratory Graduate Seminar Series 2025. Gothic, Colorado.
+* *Kirschke, G.* Scaling Floral Resource Data Using Remote Sensing (Talk). The EcoSpatial Summit: Spatial Data Analysis and Visualization for Bees and Beyond. State College, Pennsylvania. 
+* *Kirschke, G.*, J. Bain, J. Ogilvie, & P. CaraDonna*. Quantifying the nectar resource landscape available to pollinators (Talk). Ecological Society of America Annual Meeting 2022. Montreal, Québec, Canada. _*Presenting author; I was unable to attend_
+* *Kirschke G.*, J. Bain, J. Ogilvie, & P. CaraDonna. Quantifying nectar trait responses to natural variation in water availability in subalpine plant communities (Poster). Ecological Society of America Annual Meeting 2020. Virtual.
+* *Kirschke, G.* Food for Bees: Nectar Availability in Wet and Dry Subalpine Habitats (Talk). Undergraduate Research Seminar Series, Georgia State University, Spring 2021. Virtual.
+* Smith E.*, *G. Kirschke**, & C. Drummond. Does Female Size Affect Male Mate Choice in Bean Beetles (Callosobruchus maculatus)? (Talk). 29th Spring Annual Research Conference, Agnes Scott College. Decatur, Georgia. *Co-presenters
+* *Kirschke G.* & J.C. de Roode. Relative Rates of Parasitism of Butterflies on Non-native vs. Native Host Plants. (Talk). National Conference on Undergraduate Research 2019. Kennesaw, Georgia.
 
 Grants and Awards
 ======
