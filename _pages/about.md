@@ -7,4 +7,4 @@ redirect_from:
   - /about.html
 ---
 
-Hi - this site is under construction
+I am an ecologist whose work combines field measurements and spatial data to model the distributions of floral resources throughout landscapes.
