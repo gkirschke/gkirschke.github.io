@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-Ph.D in Geospatial Analytics, NC State University, 2028 (expected)<br>
+Ph.D. in Geospatial Analytics, NC State University, 2028 (expected)<br>
 B.S. in Biology, Agnes Scott College, 2020
 
 Publications
