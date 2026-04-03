@@ -16,14 +16,17 @@ Education
 
 Publications
 ======
-* Refereed Journal Articles
-  * Kirschke G., E. Smith, & C. Drummond. 2019. Little Evidence for Male Mate Choice for Female Size in the Bean Beetle (Callosobruchus maculatus). The Onyx Review 5(1): 8-11. _The Onyx Review is Agnes Scott College’s peer-reviewed interdisciplinary research journal._ [Access here.](https://onyxreview.agnesscott.org/wp-content/uploads/2019/12/Little-evidence.pdf)
-* Manuscripts in Preparation
-  * Murphy A.W., N.N. Dorian, E. Minor, P.J. CaraDonna, S.R. Griffin, H. Holm, A.M. Iler, G. Kirschke, S. MacIvor, K. Urban-Mead, E. Youngsteadt, & E. Crone. 2026. Defining the pollinator garden: is conceptual flexibility a feature or a bug? Front. Ecol. Evol. In press.
-  * Godtfredsen E.B., P. CaraDonna, A.J. Foxx, J.A. Bain, B.J. Connolly, K.M. Dawdy, A.M. Doucet, J.L. Fitzgerald, G.E. Kirschke, J.E. Ogilvie, C.C. Rigby, J.P. Scholl, D.J. Sandacz, S. Rosa, A.C. Zink, & A.M. Iler. Meta-analyses reveal no clear demographic consequences of phenological change across taxa. In prep. [Preprint.](https://doi.org/10.1101/2025.10.29.685396)
-  * Kirschke G.E., J.A. Bain, J.E. Ogilvie, & P.J. CaraDonna. A Practical Roadmap For Sampling Floral Nectar From Communities of Many Plant Species. Anticipated submission Apr 2026. [Preprint.](https://doi.org/10.64898/2025.12.19.695174)
-* White Papers
-  * Kirschke G.E., J.L. Huerta & C.R. Morningstar. 2025. Citizen science data in widely used invasive species data sources. SE RISCC Management Network Communication. [Access here.](https://southeastriscc.org/2025/06/26/citizen-science-data-in-widely-used-invasive-species-data-sources/)
+### Refereed Journal Articles
+Kirschke G., E. Smith, & C. Drummond. 2019. Little Evidence for Male Mate Choice for Female Size in the Bean Beetle (Callosobruchus maculatus). The Onyx Review 5(1): 8-11. _The Onyx Review is Agnes Scott College’s peer-reviewed interdisciplinary research journal._ [Access here.](https://onyxreview.agnesscott.org/wp-content/uploads/2019/12/Little-evidence.pdf)
+### Manuscripts in Preparation
+Murphy A.W., N.N. Dorian, E. Minor, P.J. CaraDonna, S.R. Griffin, H. Holm, A.M. Iler, G. Kirschke, S. MacIvor, K. Urban-Mead, E. Youngsteadt, & E. Crone. 2026. Defining the pollinator garden: is conceptual flexibility a feature or a bug? Front. Ecol. Evol. In press.
+
+Godtfredsen E.B., P. CaraDonna, A.J. Foxx, J.A. Bain, B.J. Connolly, K.M. Dawdy, A.M. Doucet, J.L. Fitzgerald, G.E. Kirschke, J.E. Ogilvie, C.C. Rigby, J.P. Scholl, D.J. Sandacz, S. Rosa, A.C. Zink, & A.M. Iler. Meta-analyses reveal no clear demographic consequences of phenological change across taxa. In prep. [Preprint.](https://doi.org/10.1101/2025.10.29.685396)
+
+Kirschke G.E., J.A. Bain, J.E. Ogilvie, & P.J. CaraDonna. A Practical Roadmap For Sampling Floral Nectar From Communities of Many Plant Species. Anticipated submission Apr 2026. [Preprint.](https://doi.org/10.64898/2025.12.19.695174)
+
+### White Papers
+Kirschke G.E., J.L. Huerta & C.R. Morningstar. 2025. Citizen science data in widely used invasive species data sources. SE RISCC Management Network Communication. [Access here.](https://southeastriscc.org/2025/06/26/citizen-science-data-in-widely-used-invasive-species-data-sources/)
   
 Selected Presentations
 ======
@@ -42,19 +45,24 @@ Grants and Awards
 ======
 ### 2026
 * Spirit of the Land Grant Award, NC State CALS (awarded to BeeMORE REEU team)   
+
 ### 2025
 * Graduate Research Fellowship, North Carolina Space Grant
 * Honorable Mention, NSF Graduate Research Fellowship
 * RMBL Graduate Fellowship Langenheim Award
+
 ### 2024
 * Howard McCarley Student Research Grant, Southwestern Association of Naturalists
 * Graduate Fellowship, Rocky Mountain Biological Laboratory
 * Travel Award, Center for Geospatial Analytics
+
 ### 2023
 * Goodnight Doctoral Fellowship, North Carolina State University
 * University Graduate Fellowship, North Carolina State University
+
 ### 2022
 * Returning Student Scholarship, Rocky Mountain Biological Laboratory  
+
 ### 2021
 * Scion Natural Science Association Grant
 * Returning Student Scholarship, Rocky Mountain Biological Laboratory
@@ -91,6 +99,7 @@ Service and leadership
 * Graduate Student Listserv Coordinator, Rocky Mountain Biological Laboratory
 * RCR Workshop Host, Geovisualization, Rocky Mountain Biological Laboratory
 * Manuscript reviewer, Insect Conservation and Diversity
+
 ### 2024 - present
 * BeeCampus USA Committee Member, North Carolina State University
 
@@ -98,12 +107,15 @@ Selected Professional Development
 ======
 ### 2026
 * [Spectral Ecology Summer School](https://www.specschool.org/)
+
 ### 2025
 * [CIMER Entering Mentoring Training](https://cimerproject.org/entering-mentoring-training/)
 * Nature's Classroom: Social Field Safety Workshop, [Field Inclusive](https://www.fieldinclusive.org/)
+
 ### 2024
 * [Community Surface Dynamics Modeling System](https://csdms.colorado.edu/wiki/Main_Page) Roadshow Workshop
 * Mentoring Skills for Graduate Students, NC State
+
 ### 2023
 * Data Matters Short Course Python Series
 ### 2022
