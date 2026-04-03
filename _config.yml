@@ -23,7 +23,7 @@ repository               : "gkirschke/gkirschke.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "gk_headshot.jpg"
+  avatar           : "gk_2025.png"
   name             : "Gwen Kirschke"
   pronouns         : # example: "she/her"  
   bio              : "PhD Student in Geospatial Analytics<br>Floral nectar nerd"
