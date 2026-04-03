@@ -40,72 +40,72 @@ Selected Presentations
 
 Grants and Awards
 ======
-##### 2026
-  * Spirit of the Land Grant Award, NC State CALS (awarded to BeeMORE REEU team)   
-##### 2025
-  * Graduate Research Fellowship, North Carolina Space Grant
-  * Honorable Mention, NSF Graduate Research Fellowship
-  * RMBL Graduate Fellowship Langenheim Award
-##### 2024
-  * Howard McCarley Student Research Grant, Southwestern Association of Naturalists
-  * Graduate Fellowship, Rocky Mountain Biological Laboratory
-  * Travel Award, Center for Geospatial Analytics
-##### 2023
-  * Goodnight Doctoral Fellowship, North Carolina State University
-  * University Graduate Fellowship, North Carolina State University
-##### 2022
-  * Returning Student Scholarship, Rocky Mountain Biological Laboratory  
-##### 2021
-  * Scion Natural Science Association Grant
-  * Returning Student Scholarship, Rocky Mountain Biological Laboratory
+### 2026
+* Spirit of the Land Grant Award, NC State CALS (awarded to BeeMORE REEU team)   
+### 2025
+* Graduate Research Fellowship, North Carolina Space Grant
+* Honorable Mention, NSF Graduate Research Fellowship
+* RMBL Graduate Fellowship Langenheim Award
+### 2024
+* Howard McCarley Student Research Grant, Southwestern Association of Naturalists
+* Graduate Fellowship, Rocky Mountain Biological Laboratory
+* Travel Award, Center for Geospatial Analytics
+### 2023
+* Goodnight Doctoral Fellowship, North Carolina State University
+* University Graduate Fellowship, North Carolina State University
+### 2022
+* Returning Student Scholarship, Rocky Mountain Biological Laboratory  
+### 2021
+* Scion Natural Science Association Grant
+* Returning Student Scholarship, Rocky Mountain Biological Laboratory
  
 Teaching
 ======
-##### Guest Lectures
-  * Remote Ecological Monitoring for Conservation. BIOL 329: Conservation Biology, Fall 2025. Williamstown, Massachusetts.
-##### Teaching Assistantships
-   * GIS 501: Geospatial Professionalism. Spring 2024 and Spring 2026
-##### Mentorship
-  * 6 undergratudate independent researchers
-  * 5 reserach technicians
+### Guest Lectures
+* Remote Ecological Monitoring for Conservation. BIOL 329: Conservation Biology, Fall 2025. Williamstown, Massachusetts.
+### Teaching Assistantships
+* GIS 501: Geospatial Professionalism. Spring 2024 and Spring 2026
+### Mentorship
+* 6 undergratudate independent researchers
+* 5 reserach technicians
  
 Other Experience
 ======
-###### Science Communicator, Sep 2023 - present
-  * Create materials, including lepidoptera life cycle stamps and a ceramic bumble bee nest model
-  * Developed workshop materials for high school students to create a food forest plan at the NC Youth Climate Summit, hosted by the Museum of Life + Science 
-  * Served as primary contact and coordinator for outreach requests during my advisor’s sabbatical
-  * Interacted with community members at 11 events near Raleigh, totalling over 75,000 attendees
-  * Provided interview about floral resource mapping for [The Bee’s Knees podcast](https://thebeesknees.website/bee-mapping/)
+### Science Communicator, Sep 2023 - present
+* Create materials, including lepidoptera life cycle stamps and a ceramic bumble bee nest model
+* Developed workshop materials for high school students to create a food forest plan at the NC Youth Climate Summit, hosted by the Museum of Life + Science 
+* Served as primary contact and coordinator for outreach requests during my advisor’s sabbatical
+* Interacted with community members at 11 events near Raleigh, totalling over 75,000 attendees
+* Provided interview about floral resource mapping for [The Bee’s Knees podcast](https://thebeesknees.website/bee-mapping/)
 
-###### Global Change Research Fellow, Southeast Climate Adaptation Science Center, Aug 2024 - Jul 2025
-  * Assisted with planning and facilitation of two day workshop on invasive species and climate change
-  * Collaborated with another fellow to write an info document for land managers about using citizen science data sources for invasive species monitoring  
-  * Proposed topics and speakers for webinar series on invasive species management 
-  * Collaborated with other fellows to plan, advertise, and host a seminar on applications of geospatial analysis in the wake of hurricane Helene
+### Global Change Research Fellow, Southeast Climate Adaptation Science Center, Aug 2024 - Jul 2025
+* Assisted with planning and facilitation of two day workshop on invasive species and climate change
+* Collaborated with another fellow to write an info document for land managers about using citizen science data sources for invasive species monitoring  
+* Proposed topics and speakers for webinar series on invasive species management 
+* Collaborated with other fellows to plan, advertise, and host a seminar on applications of geospatial analysis in the wake of hurricane Helene
 
 Service and leadership
 ======
-##### 2025
-  * Graduate Seminar Coordinator, Rocky Mountain Biological Laboratory
-  * Graduate Student Listserv Coordinator, Rocky Mountain Biological Laboratory
-  * RCR Workshop Host, Geovisualization, Rocky Mountain Biological Laboratory
-  * Manuscript reviewer, Insect Conservation and Diversity
-##### 2024 - present
-  * BeeCampus USA Committee Member, North Carolina State University
+### 2025
+* Graduate Seminar Coordinator, Rocky Mountain Biological Laboratory
+* Graduate Student Listserv Coordinator, Rocky Mountain Biological Laboratory
+* RCR Workshop Host, Geovisualization, Rocky Mountain Biological Laboratory
+* Manuscript reviewer, Insect Conservation and Diversity
+### 2024 - present
+* BeeCampus USA Committee Member, North Carolina State University
 
 Selected Professional Development
 ======
-##### 2026
-  * [Spectral Ecology Summer School](https://www.specschool.org/)
-##### 2025
-  * [CIMER Entering Mentoring Training](https://cimerproject.org/entering-mentoring-training/)
-  * Nature's Classroom: Social Field Safety Workshop, [Field Inclusive](https://www.fieldinclusive.org/)
-##### 2024
-  * [Community Surface Dynamics Modeling System](https://csdms.colorado.edu/wiki/Main_Page) Roadshow Workshop
-  * Mentoring Skills for Graduate Students, NC State
-##### 2023
-  * Data Matters Short Course Python Series
-* 2022
-  * Improving Workplace Climate: Empowering Individuals to Become Active Bystanders, AdvanceGeo
+### 2026
+* [Spectral Ecology Summer School](https://www.specschool.org/)
+### 2025
+* [CIMER Entering Mentoring Training](https://cimerproject.org/entering-mentoring-training/)
+* Nature's Classroom: Social Field Safety Workshop, [Field Inclusive](https://www.fieldinclusive.org/)
+### 2024
+* [Community Surface Dynamics Modeling System](https://csdms.colorado.edu/wiki/Main_Page) Roadshow Workshop
+* Mentoring Skills for Graduate Students, NC State
+### 2023
+* Data Matters Short Course Python Series
+### 2022
+* Improving Workplace Climate: Empowering Individuals to Become Active Bystanders, AdvanceGeo
 
