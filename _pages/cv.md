@@ -30,6 +30,7 @@ Godtfredsen E.B., P. CaraDonna, A.J. Foxx, J.A. Bain, B.J. Connolly, K.M. Dawdy,
   
 Selected Presentations
 ======
+* **Kirschke, G.**, I. Breckheimer, and E. Youngsteadt. Remote Sensing of Flowers: A Comparison of Methods for Combining Field Sampling with Hyperspectral Imagery. (Talk). 2026 NC Space Grant Symposium.
 * **Kirschke, G.** Running a Field Campaign: Challenges and Rewards (Talk). Geospatial Forum: 6th Doctoral Student Edition, Center for Geospatial Analytics, North Carolina State University. Raleigh, North Carolina. 
 * **Kirschke, G.** Nectar in Changing Climate (Talk). RMBL Seminar Sampler, RMBL Seminar Series, 2025. Gothic, Colorado.
 * **Kirschke, G.** Spatial Data for the Bees (Talk). GIS Week 2024 Student Roundtable, Center for Geospatial Analytics, North Carolina State University. Raleigh, North Carolina. 
