@@ -17,7 +17,7 @@ B.S. in Biology, Agnes Scott College, 2020
 Publications
 ======
 ### Refereed Journal Articles
-Murphy A.W., N.N. Dorian, E. Minor, P.J. CaraDonna, S.R. Griffin, H. Holm, A.M. Iler, **G. Kirschke**, S. MacIvor, K. Urban-Mead, E. Youngsteadt, & E. Crone. 2026. Defining the pollinator garden: is conceptual flexibility a feature or a bug? Front. Ecol. Evol. [Access here.](https://onlinelibrary.wiley.com/doi/abs/10.1002/fee.70052)
+Murphy A.W., N.N. Dorian, E. Minor, P.J. CaraDonna, S.R. Griffin, H. Holm, A.M. Iler, **G. Kirschke**, S. MacIvor, K. Urban-Mead, E. Youngsteadt, & E. Crone. 2026. Defining the pollinator garden: is conceptual flexibility a feature or a bug? Front. Ecol. Evol. [Access here.](https://doi.org/10.1002/fee.70052)
 
 **Kirschke G.**, E. Smith, & C. Drummond. 2019. Little Evidence for Male Mate Choice for Female Size in the Bean Beetle (Callosobruchus maculatus). The Onyx Review 5(1): 8-11. _The Onyx Review is Agnes Scott College’s peer-reviewed interdisciplinary research journal._ [Access here.](https://onyxreview.agnesscott.org/wp-content/uploads/2019/12/Little-evidence.pdf)
 ### Manuscripts in Preparation
