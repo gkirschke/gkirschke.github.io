@@ -92,7 +92,8 @@ Other Experience
 Service and leadership
 ======
 ### 2026
-BeeCampus USA Co-Chair, North Carolina State University
+BeeCampus USA Co-Chair, North Carolina State University<br>
+Manuscript reviewer, Journal of Animal Ecology
 ### 2025
 Graduate Seminar Coordinator, Rocky Mountain Biological Laboratory<br>
 Graduate Student Listserv Coordinator, Rocky Mountain Biological Laboratory<br>
@@ -104,7 +105,7 @@ BeeCampus USA Committee Member, North Carolina State University
 Selected Professional Development
 ======
 ### 2026
-[Spectral Ecology Summer School](https://www.specschool.org/)
+[Spectral Ecology Summer School](https://www.specschool.org/)<br>
 Comprehensive Standard First Aid, CPR and AED (8 hr)
 ### 2025
 [CIMER Entering Mentoring Training](https://cimerproject.org/entering-mentoring-training/)<br>
