@@ -67,7 +67,7 @@ Returning Student Scholarship, Rocky Mountain Biological Laboratory
 Teaching
 ======
 ### Workshops
-Giving and Receiving Feedback Effectively. Professional Development Workshop Series, North Carolina State Office of Undergraduate Research. Fall 2026.
+Giving and Receiving Feedback Effectively. Professional Development Workshop Series, North Carolina State Office of Undergraduate Research. Fall 2026.<br>
 Geovisualization. RCR Workshop Series, Rocky Mountain Biological Laboratory Undergraduate Research Program. Summer 2025. 
 ### Guest Lectures
 Remote Ecological Monitoring for Conservation. BIOL 329: Conservation Biology, Fall 2025. Williamstown, Massachusetts.
