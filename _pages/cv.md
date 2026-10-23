@@ -66,6 +66,9 @@ Returning Student Scholarship, Rocky Mountain Biological Laboratory
  
 Teaching
 ======
+### Workshops
+Giving and Receiving Feedback Effectively. Professional Development Workshop Series, North Carolina State Office of Undergraduate Research. Fall 2026.
+Geovisualization. RCR Workshop Series, Rocky Mountain Biological Laboratory Undergraduate Research Program. Summer 2025. 
 ### Guest Lectures
 Remote Ecological Monitoring for Conservation. BIOL 329: Conservation Biology, Fall 2025. Williamstown, Massachusetts.
 ### Teaching Assistantships
@@ -97,7 +100,6 @@ Manuscript reviewer, Journal of Animal Ecology
 ### 2025
 Graduate Seminar Coordinator, Rocky Mountain Biological Laboratory<br>
 Graduate Student Listserv Coordinator, Rocky Mountain Biological Laboratory<br>
-RCR Workshop Host, Geovisualization, Rocky Mountain Biological Laboratory<br>
 Manuscript reviewer, Insect Conservation and Diversity<br>
 ### 2024 - 2026
 BeeCampus USA Committee Member, North Carolina State University
