@@ -70,9 +70,9 @@ Teaching
 Giving and Receiving Feedback Effectively. Professional Development Workshop Series, North Carolina State Office of Undergraduate Research. Fall 2026.<br>
 Geovisualization. RCR Workshop Series, Rocky Mountain Biological Laboratory Undergraduate Research Program. Summer 2025. 
 ### Guest Lectures
-Remote Ecological Monitoring for Conservation. BIOL 329: Conservation Biology, Fall 2025. Williamstown, Massachusetts.
+Remote Ecological Monitoring for Conservation. BIOL 329: Conservation Biology, Williams College, Fall 2025.
 ### Teaching Assistantships
-GIS 501: Geospatial Professionalism. Spring 2024 and Spring 2026
+GIS 501: Geospatial Professionalism. North Carolina State University. Spring 2024, Spring 2026, and Fall 2026
 ### Mentorship
 6 undergratudate independent researchers<br>
 5 reserach technicians
