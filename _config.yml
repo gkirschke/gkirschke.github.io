@@ -282,6 +282,15 @@ defaults:
       author_profile: true
       share: true
       comment: true
+  # _zines
+  - scope:
+      path: ""
+      type: zines
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
   # _talks
   - scope:
       path: ""
