@@ -7,4 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-I am an ecologist whose work combines field measurements and spatial data to model the distributions of floral resources throughout landscapes.
+I am an ecologist whose work combines field measurements and spatial data to model the distributions of floral resources throughout landscapes.</br>
+
+This website is a work in progress - more research and art soon!
