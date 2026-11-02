@@ -27,7 +27,7 @@ author:
   name             : "Gwen Kirschke"
   pronouns         : # example: "she/her"  
   bio              : "PhD Candidate in Geospatial Analytics<br>Floral nectar nerd"
-  location         : "Earth"
+  location         : #"Earth"
   employer         : "NC State University"
   uri              : # URL
   email            : "gkirsch@ncsu.edu" 
@@ -51,7 +51,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "gkirschke"
+  github           : #"gkirschke"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
