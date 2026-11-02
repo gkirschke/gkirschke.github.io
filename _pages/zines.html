@@ -1,1 +1,13 @@
+---
+layout: archive
+title: "Zines"
+permalink: /zines/
+author_profile: true
+---
 
+{% include base_path %}
+
+
+{% for post in site.zines %}
+  {% include archive-single.html %}
+{% endfor %}
