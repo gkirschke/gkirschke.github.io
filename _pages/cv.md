@@ -37,10 +37,8 @@ Selected Presentations
 * **Kirschke, G.** Spatial Data for the Bees (Talk). GIS Week 2024 Student Roundtable, Center for Geospatial Analytics, North Carolina State University. Raleigh, North Carolina. 
 * **Kirschke, G.** Remote Sensing of Floral Resources in the East River Valley. (Talk). Rocky Mountain Biological Laboratory Graduate Seminar Series 2025. Gothic, Colorado.
 * **Kirschke, G.** Scaling Floral Resource Data Using Remote Sensing (Talk). The EcoSpatial Summit: Spatial Data Analysis and Visualization for Bees and Beyond. State College, Pennsylvania. 
-* **Kirschke, G.**, J. Bain, J. Ogilvie, & P. CaraDonna*. Quantifying the nectar resource landscape available to pollinators (Talk). Ecological Society of America Annual Meeting 2022. Montreal, Québec, Canada. _*Presenting author; I was unable to attend_
+* **Kirschke, G.**, J. Bain, J. Ogilvie, & P. CaraDonna. Quantifying the nectar resource landscape available to pollinators (Talk). Ecological Society of America Annual Meeting 2022. Montreal, Québec, Canada. _P. CaraDonna was the presenting author; I was unable to attend._
 * **Kirschke G.**, J. Bain, J. Ogilvie, & P. CaraDonna. Quantifying nectar trait responses to natural variation in water availability in subalpine plant communities (Poster). Ecological Society of America Annual Meeting 2020. Virtual.
-* **Kirschke, G.** Food for Bees: Nectar Availability in Wet and Dry Subalpine Habitats (Talk). Undergraduate Research Seminar Series, Georgia State University, Spring 2021. Virtual.
-* Smith E., **G. Kirschke**, & C. Drummond. Does Female Size Affect Male Mate Choice in Bean Beetles (Callosobruchus maculatus)? (Talk). 29th Spring Annual Research Conference, Agnes Scott College. Decatur, Georgia. 
 * **Kirschke G.** & J.C. de Roode. Relative Rates of Parasitism of Butterflies on Non-native vs. Native Host Plants. (Talk). National Conference on Undergraduate Research 2019. Kennesaw, Georgia.
 
 Grants and Awards
