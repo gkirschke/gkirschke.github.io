@@ -72,8 +72,8 @@ Remote Ecological Monitoring for Conservation. BIOL 329: Conservation Biology, W
 ### Teaching Assistantships
 GIS 501: Geospatial Professionalism. North Carolina State University. Spring 2024, Spring 2026, and Fall 2026
 ### Mentorship
-6 undergratudate independent researchers<br>
-5 reserach technicians
+6 undergraduate independent researchers<br>
+7 research technicians
  
 Other Experience
 ======
