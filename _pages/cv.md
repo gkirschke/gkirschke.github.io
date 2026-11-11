@@ -30,6 +30,7 @@ Godtfredsen E.B., P. CaraDonna, A.J. Foxx, J.A. Bain, B.J. Connolly, K.M. Dawdy,
   
 Selected Presentations
 ======
+* **Kirschke, G.**, Breckheimer, and Youngsteadt, E. Predicting solitary bee (Megachilidae) nesting rates using spatially continuous floral resource models. (Talk). Entomological Society of America Annual Meeting, 2026.
 * **Kirschke, G.**, Breckheimer, I., Ogilvie, J., CaraDonna, P., and Youngsteadt, E. Combining Field Data and Remote Sensing to Map Floral Distributions. (Talk). Southwestern Association of Naturalists Annual Meeting, 2026.
 * **Kirschke, G.**, I. Breckheimer, and E. Youngsteadt. Remote Sensing of Flowers: A Comparison of Methods for Combining Field Sampling with Hyperspectral Imagery. (Talk). 2026 NC Space Grant Symposium.
 * **Kirschke, G.** Running a Field Campaign: Challenges and Rewards (Talk). Geospatial Forum: 6th Doctoral Student Edition, Center for Geospatial Analytics, North Carolina State University. Raleigh, North Carolina. 
